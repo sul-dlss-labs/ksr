@@ -21,8 +21,9 @@ body {
 
 .nav-link,
 .navbar-brand {
-    color: #000;
+    color: #38566c;
     cursor: pointer;
+	font-weight: bold;
 }
 .nav-link {
     margin-right: 1em !important;
@@ -34,27 +35,13 @@ body {
     justify-content: flex-end;
 }
 
-.description {
-	left: 50%;
-	position: absolute;
-	top: 45%;
-	transform: translate(-50%, -55%);
-	text-align: center;
-}
-.description h1 {
-	color: #000000;
-}
-.description p {
-	color: #000;
-	font-size: 1.3rem;
-	line-height: 1.5;
-}
-
 .bubbles {
 	margin: 4em auto;
 	padding: 1em;
     background-color: #ccc;
 	position: relative;
+	opacity: 80%;
+	color: #000;
 }
 
 .features {
@@ -67,7 +54,6 @@ body {
 	font-size: 1.3rem;
 	font-weight: 700;
 	margin-bottom: 20px;
-	text-transform: uppercase;
 }
 .features img {
 	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);

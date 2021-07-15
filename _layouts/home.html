@@ -15,29 +15,17 @@
         <div class="home">
             <div class="header-home">
                 <div class="row">
-                    <div class="col">
-                        <a href="index.html"><img alt="SRT Logo" src="images/logo_navy.png" height="50"></a>
+                    <div class="col-5 px-5">
+                        <a href="index.html"><img alt="SRT Logo" src="images/logo_navy.png" class="img-fluid"></a>
                     </div>
-                    <div class="col">
+                    <div class="col-1"></div>
+                    <div class="col-6 pt-3">
                         Documenting Discriminiation * Identifiying Interconnections * Highlighting Helpers
                     </div>
                 </div>
             </div>
-            <nav class="navbar navbar-expand-md">
-                <div class="collapse navbar-collapse" id="main-navigation">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="timeline.html">Housing</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Policing</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Getting Involved</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+
+            {% include navbar.html %}
 
             {{ content }}
 
