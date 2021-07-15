@@ -8,7 +8,7 @@ body {
 /* start navbar styles   */
 .nav-link,
 .navbar-brand {
-    color: #38566c;
+    color: #2f576e;
     cursor: pointer;
 	font-weight: bold;
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .features-bar {
-	background-color: #38566c;
+	background-color: #2f576e;
 }
 .features {
 	padding: 1em;
@@ -76,18 +76,28 @@ body {
 
 .stories-bar {
 	background-color: #fff;
+	display: none;
 }
 
 .explain-bar {
-	background-color: #fff;
+	background-color: #c0c0b6;
+}
+
+.title {
+	font-size: 1.4rem;
+	font-weight: 500;
+	margin-bottom: 20px;
+	color: #702f21;
 }
 
 .events-bar {
-	background-color: #fff;
+	background-color: #dfdbd3;
+	display: none;
 }
 
 .edu-bar {
-	background-color: #fff;
+	background-color: #ac8d4d;
+	display: none;
 }
 
 .about-bar {
@@ -96,3 +106,7 @@ body {
 
 /* end home page styles   */
 /**************************/
+
+.page-footer {
+	background-color: #6d747e;
+}
