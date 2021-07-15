@@ -3,6 +3,29 @@ body {
     margin: 0;
     background: #f2f6e9;
 }
+
+/**************************/
+/* start navbar styles   */
+.nav-link,
+.navbar-brand {
+    color: #38566c;
+    cursor: pointer;
+	font-weight: bold;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #ddd;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+/* end navbar styles      */
+/**************************/
+
+/**************************/
+/* start home page styles */
 .home {
     background-image: url('../images/home_mlkmarch_homepage.png');
     background-size: cover;
@@ -19,38 +42,27 @@ body {
     color:#0d1f2c;
 }
 
-.nav-link,
-.navbar-brand {
-    color: #38566c;
-    cursor: pointer;
-	font-weight: bold;
-}
-.nav-link {
-    margin-right: 1em !important;
-}
-.nav-link:hover {
-    color: #ddd;
-}
-.navbar-collapse {
-    justify-content: flex-end;
-}
-
 .bubbles {
 	margin: 4em auto;
 	padding: 1em;
     background-color: #ccc;
-	position: relative;
 	opacity: 80%;
 	color: #000;
 }
 
+.quote-bar {
+	background-color: #000;
+}
+
+.features-bar {
+	background-color: #38566c;
+}
 .features {
-	margin: 4em auto;
 	padding: 1em;
 	position: relative;
+	color: #ddd;
 }
 .feature-title {
-	color: #333;
 	font-size: 1.3rem;
 	font-weight: 700;
 	margin-bottom: 20px;
@@ -61,3 +73,26 @@ body {
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	margin-bottom: 16px;
 }
+
+.stories-bar {
+	background-color: #fff;
+}
+
+.explain-bar {
+	background-color: #fff;
+}
+
+.events-bar {
+	background-color: #fff;
+}
+
+.edu-bar {
+	background-color: #fff;
+}
+
+.about-bar {
+	background-color: #fff;
+}
+
+/* end home page styles   */
+/**************************/
