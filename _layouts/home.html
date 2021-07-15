@@ -12,24 +12,7 @@
 	<body>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
-        <div class="home">
-            <div class="header-home">
-                <div class="row">
-                    <div class="col-5 px-5">
-                        <a href="index.html"><img alt="SRT Logo" src="images/logo_navy.png" class="img-fluid"></a>
-                    </div>
-                    <div class="col-1"></div>
-                    <div class="col-6 pt-3">
-                        Documenting Discriminiation * Identifiying Interconnections * Highlighting Helpers
-                    </div>
-                </div>
-            </div>
-
-            {% include navbar.html %}
-
-            {{ content }}
-
-        </div>
+        {{ content }}
 
         {% include footer.html %}
 
