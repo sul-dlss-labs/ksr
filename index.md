@@ -23,13 +23,13 @@ title: Stanford Systemic Racism Tracker
     <div class="container">
         <div class="row">
             <div class="col-4 bubbles rounded text-center">
-                <h3 class="feature-title">Learn about systemic racism</h3>
+                <h2>Learn about systemic racism</h2>
                 <a href="timeline.html"><img class="img-fluid pt-5" alt="timeline" src="images/timeline_button.png" /></a>
             </div>
             <div class="col-4">
             </div>
             <div class="col-4 bubbles rounded">
-                <h3 class="feature-title text-center">Get involved</h3>
+                <h2 class="text-center">Get involved</h2>
                 <p class="text-center">Help us put an end to systemic racism</p>
                 <div class="row">
                     <div class="col-4">
@@ -96,7 +96,7 @@ title: Stanford Systemic Racism Tracker
     <div class="container py-3">
         <div class="row">
             <div class="col">
-                <h3 class="title">What is "systemic racism"?</h3>
+                <h3>What is "systemic racism"?</h3>
                 <div class="row">
                     <div class="col-6">
                         <p>Institutional policies, procedures, practices, regulations or processes that normalize (physical, economic, social) harm and result in outcomes that disadvantages racialized groups—people who have had a stigmatized racial identity imposed on them. Systemic racism creates disparities in many "success indicators" including wealth, policing and the criminal justice system, banking, employment, housing, health care, media, military, politics, science, voting rights, education and the environment.</p>
@@ -109,7 +109,7 @@ title: Stanford Systemic Racism Tracker
                     </div>
                 </div>
 
-                <h3 class="title">How do we prove systemic racism exists?</h3>
+                <h3>How do we prove systemic racism exists?</h3>
                 <div class="row">
                     <div class="col-6">
                         <p>Throughout America’s democratic history, there have been "promises made" – perhaps the most well-known are "life, liberty and the pursuit of happiness." These promises are just three examples of the unalienable rights which the Declaration of Independence says have been given to all humans by their creator, cannot be taken away or denied, and which governments are created to protect.</p>
@@ -120,7 +120,7 @@ title: Stanford Systemic Racism Tracker
                         <p>The SRT will focus attention on evidence-based studies and reporting relating to the role of racism and race-based discrimination, in our public and private institutions. The SRT will offer suggestions on agencies that can help address these inequities. Our scholars and users will play a pivotal role in collecting data to educate the public about the existence of systemic racism in America, throughout history and the present day.</p>
                     </div>
                 </div>
-                <h3 class="title">How can data help put an end to systemic racism?</h3>
+                <h3>How can data help put an end to systemic racism?</h3>
                 <p>The SRT will collect data documenting instances of institutional discrimination of Black people in America. The SRT will focus attention on evidence-based studies and reporting relating to the role of racism and race-based discrimination, in our public and private institutions. The SRT will offer suggestions on agencies and organizations that can help address these inequities. Our scholars and users will play a pivotal role in collecting data to educate the public about the existence of systemic racism in America, throughout history and the present day.</p>
                 <img class="img-fluid" alt="SRT Diagram" src="images/home_srtdiagram.png" />
             </div>
@@ -152,7 +152,7 @@ title: Stanford Systemic Racism Tracker
     <div class="container py-3">
         <div class="row">
             <div class="col-6">
-                <h3 class="title">About SRT</h3>
+                <h2>About SRT</h2>
                 <p>To begin we will document systemic racism in housing and policing. The SRT will highlight the interconnected systems that perpetuate those injustices and inequities. The SRT will focus on California in general and the Bay Area in particular. The initial time period of interest will be the early 20th century to the present.</p>
                 <p>The SRT will help users find data and other resources regarding how public and private institutions have shaped the housing and neighborhood conditions of African Americans. We selected the housing topic because there is a consensus across the political spectrum that housing discrimination against African Americans has existed (although some would argue that it faded after the federal Fair Housing Act of 1968). Neighborhoods are embedded in institutional policies and practices that influence environmental benefits (whether there are good schools, jobs, and fresh produce nearby) and detriments (whether the home is located near toxic waste that increases resident’s cancer risk or in a floodplain that makes resident’s more vulnerable to the impacts of climate change).</p>
             </div>
