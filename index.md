@@ -1,16 +1,18 @@
 ---
-layout: home
+layout: none
 title: Stanford Systemic Racism Tracker
 ---
+{% include page_head.html %}
 
 <div class="home">
+
     <div class="header-home">
         <div class="row">
             <div class="col-5 px-5">
                 <a href="index.html"><img alt="SRT Logo" src="images/logo_navy.png" class="img-fluid" /></a>
             </div>
             <div class="col-1"></div>
-            <div class="col-6 pt-3">
+            <div class="col-6 px-3 pt-3 text-end">
                 Documenting Discriminiation * Identifiying Interconnections * Highlighting Helpers
             </div>
         </div>
@@ -162,3 +164,7 @@ title: Stanford Systemic Racism Tracker
         </div>
     </div>
 </div>
+
+{% include footer.html %}
+
+{% include page_foot.html %}
