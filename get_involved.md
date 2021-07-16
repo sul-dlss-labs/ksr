@@ -1,5 +1,6 @@
 ---
 title: Getting Involved
+nav-link: involved
 ---
 <div class="container">
     <div class="row">
