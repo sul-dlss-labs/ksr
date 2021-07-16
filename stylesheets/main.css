@@ -107,6 +107,23 @@ body {
 /* end home page styles   */
 /**************************/
 
+/***********************/
+/* start footer styles */
 .page-footer {
 	background-color: #6d747e;
+	color: #ccc;
+	font-size: 0.8rem;
 }
+
+.page-footer ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+.page-footer li {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+/* end footer styles   */
+/***********************/
