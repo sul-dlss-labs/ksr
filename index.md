@@ -59,7 +59,7 @@ title: Stanford Systemic Racism Tracker
             <div class="col-6">
                 <div class="row">
                     <div class="col">
-                        <a href="https://www.segregatedbydesign.com/"><img class="img-fluid" src="Housing video" src="images/housing_homepage.png"></a>
+                        <a href="https://www.segregatedbydesign.com/"><img class="img-fluid" alt="Housing video" src="images/housing_homepage.png"></a>
                     </div>
                     <div class="col">
                         <h3 class="feature-title">Housing</h3>
@@ -70,7 +70,7 @@ title: Stanford Systemic Racism Tracker
             <div class="col-6">
                 <div class="row">
                     <div class="col">
-                        <a href="https://news.stanford.edu/2016/06/15/stanford-big-data-study-finds-racial-disparities-oakland-calif-police-behavior-offers-solutions/"><img class="img-fluid" src="Policing video" src="images/policing_homepage.png" height="100" /></a>
+                        <a href="https://news.stanford.edu/2016/06/15/stanford-big-data-study-finds-racial-disparities-oakland-calif-police-behavior-offers-solutions/"><img class="img-fluid" alt="Policing video" src="images/policing_homepage.png" height="100" /></a>
                     </div>
                     <div class="col">
                         <h3 class="feature-title">Policing</h3>
@@ -122,7 +122,7 @@ title: Stanford Systemic Racism Tracker
                 </div>
                 <h3 class="title">How can data help put an end to systemic racism?</h3>
                 <p>The SRT will collect data documenting instances of institutional discrimination of Black people in America. The SRT will focus attention on evidence-based studies and reporting relating to the role of racism and race-based discrimination, in our public and private institutions. The SRT will offer suggestions on agencies and organizations that can help address these inequities. Our scholars and users will play a pivotal role in collecting data to educate the public about the existence of systemic racism in America, throughout history and the present day.</p>
-                <img class="img-fluid" src="SRT Diagram" src="images/home_srtdiagram.png" />
+                <img class="img-fluid" alt="SRT Diagram" src="images/home_srtdiagram.png" />
             </div>
         </div>
     </div>
