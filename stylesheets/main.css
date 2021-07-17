@@ -3,6 +3,58 @@ body {
     margin: 0;
     background: #f2f6e9;
 }
+
+h2 {
+	font-size: 1.4rem;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 1.4rem;
+	font-weight: 400;
+	color: #702f21;
+	margin-bottom: 20px;
+}
+
+h4 {
+	font-size: 1.1rem;
+	margin-bottom: 20px;
+}
+
+.quote {
+	font-size: 1.1rem;
+	font-weight: 600;
+	color: #2f576e;
+	margin: 20px;
+}
+
+/**************************/
+/* start navbar styles   */
+.nav-link,
+.navbar-brand {
+    color: #2f576e;
+    cursor: pointer;
+	font-weight: bold;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #ddd;
+}
+.nav-link.active {
+	text-decoration: underline;
+	color: #702f21;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+/* end navbar styles      */
+/**************************/
+
+/**************************/
+/* start home page styles */
 .home {
     background-image: url('../images/home_mlkmarch_homepage.png');
     background-size: cover;
@@ -16,58 +68,29 @@ body {
 }
 
 .header-home {
-    color:#0d1f2c;
-}
-
-.nav-link,
-.navbar-brand {
-    color: #000;
-    cursor: pointer;
-}
-.nav-link {
-    margin-right: 1em !important;
-}
-.nav-link:hover {
-    color: #ddd;
-}
-.navbar-collapse {
-    justify-content: flex-end;
-}
-
-.description {
-	left: 50%;
-	position: absolute;
-	top: 45%;
-	transform: translate(-50%, -55%);
-	text-align: center;
-}
-.description h1 {
-	color: #000000;
-}
-.description p {
-	color: #000;
-	font-size: 1.3rem;
-	line-height: 1.5;
+    color: #2f576e;
+	font-size: 0.9rem;
 }
 
 .bubbles {
 	margin: 4em auto;
 	padding: 1em;
     background-color: #ccc;
-	position: relative;
+	opacity: 80%;
+	color: #000;
 }
 
+.quote-bar {
+	background-color: #000;
+}
+
+.features-bar {
+	background-color: #2f576e;
+}
 .features {
-	margin: 4em auto;
 	padding: 1em;
 	position: relative;
-}
-.feature-title {
-	color: #333;
-	font-size: 1.3rem;
-	font-weight: 700;
-	margin-bottom: 20px;
-	text-transform: uppercase;
+	color: #ddd;
 }
 .features img {
 	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
@@ -75,3 +98,56 @@ body {
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	margin-bottom: 16px;
 }
+
+.stories-bar {
+	background-color: #fff;
+	display: none;
+}
+
+.explain-bar {
+	background-color: #c0c0b6;
+}
+
+.events-bar {
+	background-color: #dfdbd3;
+	display: none;
+}
+
+.edu-bar {
+	background-color: #ac8d4d;
+	display: none;
+}
+
+.about-bar {
+	background-color: #fff;
+}
+
+/* end home page styles   */
+/**************************/
+
+/***********************/
+/* start footer styles */
+.page-footer {
+	background-color: #6d747e;
+	color: #ccc;
+	font-size: 0.8rem;
+}
+.page-footer a {
+	text-decoration: none;
+	color: #ccc;
+}
+.page-footer a:hover {
+	text-decoration: none;
+	color: #702f21;
+}
+.page-footer ul {
+	margin: 0px;
+	padding: 0px;
+}
+.page-footer li {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+/* end footer styles   */
+/***********************/
