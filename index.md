@@ -13,7 +13,7 @@ title: Stanford Systemic Racism Tracker
             </div>
             <div class="col-1"></div>
             <div class="col-6 px-3 pt-3 text-end">
-                Documenting Discriminiation * Identifiying Interconnections * Highlighting Helpers
+                Documenting Discriminiation &bull; Identifiying Interconnections &bull; Highlighting Helpers
             </div>
         </div>
     </div>
