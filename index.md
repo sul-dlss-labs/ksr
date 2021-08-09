@@ -100,6 +100,7 @@ title: Stanford Systemic Racism Tracker
                 <div class="row">
                     <div class="col-6">
                         <p>Institutional policies, procedures, practices, regulations or processes that normalize (physical, economic, social) harm and result in outcomes that disadvantages racialized groups—people who have had a stigmatized racial identity imposed on them. Systemic racism creates disparities in many "success indicators" including wealth, policing and the criminal justice system, banking, employment, housing, health care, media, military, politics, science, voting rights, education and the environment.</p>
+                        <p><a href="https://abc7news.com/systemic-racism-definition-structural-institutionalized-what-is/6292530/">Watch a video</a> on the importance of words in the fight for racial equality.</p>
                     </div>
                     <div class="col-3">
                         <p>However, systemic racism can and will be defined differently by different people. We do not intend to force our definition onto you, but are providing a foundation from which to build on. The content is provided for you to come to your own conclusions.</p>
