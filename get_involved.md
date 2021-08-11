@@ -5,9 +5,10 @@ nav-link: involved
 <div class="container">
     <div class="row">
         <div class="col-6">
-            <h3>Connect with the Community</h3>
+            <h1>Connect with the Community</h1>
             <p>When we first started, we thought this was just going to be a database with a website interface. After the first 5 interviews we did, we realized we also needed to bring people together. Professors want to know what data community organizers need to further their work, and community organizers want to know what research professors are working on. Moreover, each individual or group we spoke to had valuable data that was not preserved. </p>
             <p>This is our opportunity to bring people and data together to amplify our efforts in ending systemic racism.</p>
+            <p>To learn more, <a href="contact.html">contact us here.</a></p>
         </div>
         <div class="col-3">
            <img src="images/collab_workshops.png" alt="Workshops" class="img-fluid py-3">
