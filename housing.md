@@ -9,11 +9,13 @@ nav-link: housing
                 <h1>Housing</h1>
                 <div class="row">
                     <div class="col">
-                        <img alt="housing" src="images/housing.png" class="img-fluid">
+                        <h2>Redlining</h2>
+                        <img alt="housing" src="images/san-fran-redlining-small.jpeg" class="img-fluid">
+                        <p><a href="https://www.kcet.org/shows/city-rising/how-prop-14-shaped-californias-racial-covenants">Learn about</a> how Prop 11 shaped Calfornia's Racial Covenants, learn <a href="https://dsl.richmond.edu/panorama/redlining/?text=intro#loc=5/39.1/-94.58&text=intro">more about redlining and examine scans</a> and then examine historical redlining maps of the San Francisco Bay Area <a href="https://joshbegley.com/redlining/bayarea">overlaid on current maps</a>.</p>
                     </div>
                     <div class="col">
                         <h2>Latest News</h2>
-                        <p>San Francisco Chronicle, reports, "California is trying to remove racist rules from housing documents. But we need to do more." This year, California Assembly members Kevin McCarty, D-Sacramento; Autumn Burke, D-Los Angeles; David Chiu, D-San Francisco; and state Sen. Scott Wiener, D-San Francisco will introduce legislation that removes racial covenants from deeds whenever the property is transferred or sold. "Eliminating these housing covenants is a moral right and an important step in bringing racial justice to Californians," McCarty said in a statement on Monday, August 3rd.</p>
+                        <p>San Francisco Chronicle, reports, "California is trying to remove racist rules from housing documents. But we need to do more." This year, California Assembly members Kevin McCarty, D-Sacramento; Autumn Burke, D-Los Angeles; David Chiu, D-San Francisco; and state Sen. Scott Wiener, D-San Francisco will introduce legislation that removes racial covenants from deeds whenever the property is transferred or sold. "Eliminating these housing covenants is a moral right and an important step in bringing racial justice to Californians," McCarty said in a statement on Monday, August 3rd, 2021.</p>
                     </div>
                 </div>
                 <h2>Latest research</h2>
@@ -22,7 +24,7 @@ nav-link: housing
                         <p class="quote">Kardile, Tanvi. "Systemic racism is not a political question: Welfare programs do not provide enough support for Black Americans—as demonstrated through analyzing racial disparities in COVID-19 mortality rates in the “safe haven” blue state of California." (2020).</p>
                     </div>
                      <div class="col">
-                        <p>Coronavirus (COVID-19) has resulted in 10.9 million cases and 521,000 deaths worldwide, hitting the entire world at an unprecedented rate, resulting in a global pandemic. In the United States alone there have been 2.8 million cases, and 131,000 deaths. There have been alarming numbers in the United States, as the country is seeing 50,000 cases reported in a single day.1 The country is on a heightened sense of tension and unrest due to this pandemic. On top of COVID-19, there have also been racial tensions as well. The Black Lives Matter (BLM) movement is taking the country by storm, spurring protests about racial inequalities, particularly as a result of police brutality, the black community faces. A closer look at the two show that COVID-19 and racial inequalities are intertwined. Black people face a higher death rate from COVID-19 as a result of systemic racism.</p>
+                        <p>Coronavirus (COVID-19) has resulted in hundreds of millions of cases and millions of deaths worldwide, hitting the entire world at an unprecedented rate, resulting in a global pandemic. The country is on a heightened sense of tension and unrest due to this pandemic. On top of COVID-19, there have also been racial tensions as well. The Black Lives Matter (BLM) movement has taken the country by storm, spurring protests about racial inequalities, particularly as a result of police brutality, the black community faces. A closer look at the two show that COVID-19 and racial inequalities are intertwined. Black people face a higher death rate from COVID-19 as a result of systemic racism.</p>
                     </div>
                 </div>
             </div>
