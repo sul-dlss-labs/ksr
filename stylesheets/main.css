@@ -32,7 +32,7 @@ h4 {
 .quote {
 	font-size: 1.1rem;
 	font-weight: 600;
-	color: #006CB8;
+	color: #2f576e;
 	margin: 20px;
 }
 
@@ -49,7 +49,7 @@ a:hover {
 /* start navbar styles   */
 .nav-link,
 .navbar-brand {
-    color: #006CB8;
+    color: #2f576e;
 	font-weight: bold;
 }
 .nav-link {
@@ -61,7 +61,7 @@ a:hover {
 	color: #702f21;
 }
 .navbar-collapse {
-    justify-content: flex-end;
+    justify-content: center;
 }
 /* end navbar styles      */
 /**************************/
@@ -86,7 +86,7 @@ a:hover {
 }
 
 .bubbles {
-	margin: 4em auto;
+	margin: 2em auto;
 	padding: 1em;
     background-color: #ccc;
 	opacity: 80%;
@@ -95,11 +95,20 @@ a:hover {
 
 .quote-bar {
 	background-color: #000;
+	font-family: 'Caveat';
+	color: #ffffff;
+	font-size: 2rem;
+	text-align: center;
 }
 
 .features-bar {
 	background-color: #2f576e;
 }
+
+.features-bar a{
+	color: #ffffff;
+}
+
 .features {
 	padding: 1em;
 	position: relative;
