@@ -40,5 +40,7 @@ nav-link: policing
         <p>We have worked with and/or at the Supreme Court of the Philippines, the Special Court for Sierra Leone, the Special Panels for Serious Crimes in Timor-Leste, the Extraordinary Chambers in the Courts of Cambodia, the International Criminal Tribunals for Former Yugoslavia and Rwanda, and the International Criminal Court.</p>
         <h3>ACLU Northern California</h3>
         <p>We make sure that Constitutional rights - to free speech, to privacy, to due process - don't just exist on paper, but also in practice." <a href="https://www.aclunc.org/home">https://www.aclunc.org/home</a></p>
+        <h3>Police Training Manuals</h3>
+        <p>The first SRT dataset consists of 460 California Law Enforcement Agency Policy and Training Manuals: <a href="https://www.eff.org/sb978-Apr2021">https://www.eff.org/sb978-Apr2021</a>.  These police manuals are publicly accessible through our Digital Repository to a comma delimited .csv file containing the name, agency type, city, county, and URLs at <a href="https://purl.stanford.edu/yf700bp8218">https://purl.stanford.edu/yf700bp8218</a>. This collection is valuable for data mining, tracking reforms and epowering civilians to identify police misconduct as expressed in their written procedures. The SRT’s police collection is being duplicated by Howard University’s Law Library which is just one of our partners at HBCUs (Historically Black Colleges and Universities).</p>
     </div>
 </div>
