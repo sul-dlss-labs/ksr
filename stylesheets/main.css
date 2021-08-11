@@ -2,7 +2,12 @@ body {
     padding: 0;
     margin: 0;
     background: #f2f6e9;
-	font-family: Garamond, serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14pt;
+}
+
+h1 {
+	color: #702421;
 }
 
 h2 {
@@ -12,9 +17,9 @@ h2 {
 }
 
 h3 {
-	font-size: 1.4rem;
-	font-weight: 500;
-	color: #702f21;
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: #702421;
 	margin-bottom: 20px;
 }
 
@@ -27,23 +32,30 @@ h4 {
 .quote {
 	font-size: 1.1rem;
 	font-weight: 600;
-	color: #2f576e;
+	color: #006CB8;
 	margin: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+
 }
 
 /**************************/
 /* start navbar styles   */
 .nav-link,
 .navbar-brand {
-    color: #2f576e;
+    color: #006CB8;
 	font-weight: bold;
 }
 .nav-link {
     margin-right: 1em !important;
 }
-.nav-link:hover {
-    color: #ddd;
-}
+
 .nav-link.active {
 	text-decoration: underline;
 	color: #702f21;
@@ -69,8 +81,8 @@ h4 {
 }
 
 .header-home {
-    color: #2f576e;
-	font-size: 0.9rem;
+    color: #0D1F2C;
+	font-style: italic;
 }
 
 .bubbles {
@@ -134,11 +146,9 @@ h4 {
 	font-size: 0.8rem;
 }
 .page-footer a {
-	text-decoration: none;
 	color: #ccc;
 }
 .page-footer a:hover {
-	text-decoration: none;
 	color: #702f21;
 }
 .page-footer ul {
