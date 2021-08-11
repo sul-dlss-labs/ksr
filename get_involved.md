@@ -1,5 +1,5 @@
 ---
-title: Getting Involved
+title: Get Involved
 nav-link: involved
 ---
 <div class="container">
