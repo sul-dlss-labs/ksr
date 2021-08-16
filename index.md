@@ -29,7 +29,7 @@ title: Stanford Systemic Racism Tracker
             <div class="col-1"></div>
             <div class="col-3 bubbles rounded text-center">
                 <h2>Search for data on systemic racism</h2>
-                <a href="https://searchworks.stanford.edu/articles?utf8=✓&search_field=search&q=housing+AND+polic*+AND+Bay+Area"><img class="img-fluid pt-5" alt="search resources" src="images/button_resources.png" /></a>
+                <a href="data.html"><img class="img-fluid pt-5" alt="search resources" src="images/button_resources.png" /></a>
             </div>
             <div class="col-1"></div>
             <div class="col-3 bubbles rounded text-center">
@@ -59,7 +59,7 @@ title: Stanford Systemic Racism Tracker
                         <a href="https://www.segregatedbydesign.com/"><img class="img-fluid" alt="Housing video" src="images/housing_homepage.png"></a>
                     </div>
                     <div class="col">
-                        <h2>Housing</h2>
+                        <h2><a href="housing.html">Housing</a></h2>
                         <p>If you have just a few minutes, this video clearly illustrates how the history of systemic racism in housing has led us to where we are today.  To dive deeper, head over to the <a href="housing.html">Housing page >></a></p>
                     </div>
                 </div>
@@ -70,7 +70,7 @@ title: Stanford Systemic Racism Tracker
                         <a href="https://news.stanford.edu/2016/06/15/stanford-big-data-study-finds-racial-disparities-oakland-calif-police-behavior-offers-solutions/"><img class="img-fluid" alt="Policing video" src="images/policing_homepage.png" height="100" /></a>
                     </div>
                     <div class="col">
-                        <h2>Policing</h2>
+                        <h2><a href="policing.html">Policing</a></h2>
                         To get started in your journey to learn about systemic racism in policing, this video provides a concrete example in the Bay Area.  Then investigate more on the <a href="policing.html">Policing page >></a>
                     </div>
                 </div>
