@@ -19,6 +19,11 @@ nav-link: involved
     </div>
     <div class="row">
         <div class="col-12">
+            <h1>Demand Action from Your Representatives</h1>
+            <p><ul>
+            <li>Find your representatives and demand action to end police violence: <a href="https://mappingpoliceviolence.org/">https://mappingpoliceviolence.org/</a></li>
+            <li>Visit this site and scroll down to the map to learn about existing laws regarding "no knock raids": <a href="https://endallnoknocks.org/">https://endallnoknocks.org/</a></li>
+            </ul></p>
             <p class="quote">"When historians pick up their pens to write the story of the 21st century, let them say that it was your generation who laid down the heavy burdens of hate at last and that peace finally triumphed over violence, aggression and war. So I say to you, walk with the wind, brothers and sisters, and let the spirit of peace and the power of everlasting love be your guide." - John Lewis</p>
         </div>
     </div>
