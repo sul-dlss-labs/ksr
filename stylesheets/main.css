@@ -45,6 +45,14 @@ a:hover {
 
 }
 
+.small {
+	font-size: 0.8rem;
+}
+
+.strong {
+	font-weight: bold;
+}
+
 /**************************/
 /* start navbar styles   */
 .nav-link,

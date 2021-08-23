@@ -26,4 +26,10 @@ title: About the SRT
             <img src="images/georgefloyd.png" alt="George Floyd" class="pb-4 img-fluid">
         </div>
     </div>
+    <div class="rows">
+        <div class="col-12">
+            <p class="strong">Disclaimer: Veracity of findings</p>
+            <p class="small">While the data have been selected based on credibility of sources known for accuracy, the System Racism Tracker (SRT) disclaims any responsibility for the accuracy or correctness of the data.  All information in the SRT site is presented without any representation, guaranty, or warranty whatsoever regarding the accuracy, relevance, or completeness of the information.  Inclusion in SRT does not equal endorsement. Please note that users of this SRT site are responsible for independently verifying any and all information. The inclusion of links from this site does not imply endorsement or support of any of the linked information, services, products, or providers.</p>
+        </div>
+    </div>
 </div>
