@@ -27,4 +27,15 @@ nav-link: involved
             <p class="quote">"When historians pick up their pens to write the story of the 21st century, let them say that it was your generation who laid down the heavy burdens of hate at last and that peace finally triumphed over violence, aggression and war. So I say to you, walk with the wind, brothers and sisters, and let the spirit of peace and the power of everlasting love be your guide." - John Lewis</p>
         </div>
     </div>
+    <div class="row">
+        <div class="col-6">
+            <h1>Information About Filing a Housing Complaint</h1>
+            <p>If you believe your rights may have been violated, we encourage you to submit a complaint. Because there are time limits on when a complaint can be filed with HUD after an alleged violation, you should submit a complaint as soon as possible.
+            <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint</a></p>
+        </div>
+        <div class="col-6">
+            <h1>Citizen Complaints Against Law Enforcement</h1>
+            <p>This California Department of Justice policy establishes guidelines governing the manner in which the Department of Justice will respond to complaints by members of the public against a law enforcement agency or its employees: <a href="https://oag.ca.gov/sites/all/files/agweb/pdfs/civilrights/citizencomplaintpolicy.pdf">https://oag.ca.gov/sites/all/files/agweb/pdfs/civilrights/citizencomplaintpolicy.pdf</a>.  If you have a specific incident or officer that you would more information on, you can file your own Public Records Act request with the ACLU of Southern California: <a href="https://www.aclusocal.org/en/know-your-rights/access-ca-police-records">https://www.aclusocal.org/en/know-your-rights/access-ca-police-records</a>.</p>
+        </div>
+    </div>
 </div>
