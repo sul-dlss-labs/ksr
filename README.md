@@ -1,5 +1,5 @@
-# srt
-SRT Website
+# KNOW Systemic Racism
+KSR Website
 
 We are using Jekyll with GitHub pages, along with a custom HTML/CSS template, with Bootstrap 5 (and not using Jekyll themes).
 
@@ -17,4 +17,4 @@ Jekyll uses Ruby, and so it requires you have Ruby and rubygems installed.
 8. Commit changes to a branch, and then make PR to the gh-pages branch.  This is the default branch for the repo and is what Github uses to build the website from.
 
 
-Website URL: https://sul-dlss-labs.github.io/srt/
+Website URL: https://sul-dlss-labs.github.io/ksr/
