@@ -9,7 +9,7 @@ title: Stanford Systemic Racism Tracker
     <div class="header-home">
         <div class="row">
             <div class="col-5 px-5">
-                <a href="index.html"><h1 class="header-home">KNOW Systemic Racism</h1></a>
+                <a href="index.html"><img alt="KNOW Systemic Racism" src="images/ksr-logo.png"></a>
             </div>
             <div class="col-1"></div>
             <div class="col-6 px-3 pt-3 text-end" style="font-style: italic;">
