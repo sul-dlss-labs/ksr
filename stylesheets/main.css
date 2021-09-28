@@ -29,6 +29,16 @@ h4 {
 	margin-bottom: 20px;
 }
 
+.red-banner {
+	background-color: #702f21;
+	color: #ffffff;
+	min-height: 50px;
+	margin-bottom: 0px;
+	padding: 5px;
+	width: 250px;
+	text-align: center;
+}
+
 .quote {
 	font-size: 1.1rem;
 	font-weight: 600;
