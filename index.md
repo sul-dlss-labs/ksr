@@ -103,7 +103,7 @@ title: Stanford Systemic Racism Tracker
                         <p>However, systemic racism can and will be defined differently by different people. We do not intend to force our definition onto you, but are providing a foundation from which to build on. The content is provided for you to come to your own conclusions.</p>
                     </div>
                     <div class="col-3">
-                        <h4>"Not everything that is faced can be changed, but nothing can be changed until it is faced." James Baldwin</h4>
+                        <h4>"Not everything that is faced can be changed, but nothing can be changed until it is faced."<br /> - James Baldwin</h4>
                     </div>
                 </div>
 
