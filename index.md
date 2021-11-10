@@ -96,7 +96,7 @@ title: Stanford Systemic Racism Tracker
                 <h2>What is "systemic racism"?</h2>
                 <div class="row">
                     <div class="col-6">
-                        <p>Institutional policies, procedures, practices, regulations or processes that normalize (physical, economic, social) harm and result in outcomes that disadvantages racialized groups—people who have had a stigmatized racial identity imposed on them. Systemic racism creates disparities in many "success indicators" including wealth, policing and the criminal justice system, banking, employment, housing, health care, media, military, politics, science, voting rights, education and the environment.</p>
+                        <p>System racism stems from institutional policies, procedures, practices, regulations or processes that normalize (physical, economic, social) harm and result in outcomes that disadvantage racialized groups and people who have had a stigmatized racial identity imposed on them. Systemic racism creates disparities in many "success indicators" such as wealth, policing, the criminal justice system, banking, employment, housing, health care, media, military, politics, science, voting rights, education and the environment.</p>
                         <p><a href="https://abc7news.com/systemic-racism-definition-structural-institutionalized-what-is/6292530/">Watch a video</a> on the importance of words in the fight for racial equality.</p>
                     </div>
                     <div class="col-3">
@@ -157,7 +157,7 @@ title: Stanford Systemic Racism Tracker
             <div class="col-1"></div>
             <div class="col-5">
                 <p>The KSR will also help users discover resources about how policing and the criminal justice system shape the ability or inability of African Americans to safeguard their lives and their Constitutional rights, including the right to be “secure in their persons [and] houses,” as articulated by the Fourth Amendment. We chose policing and the courts for the second topic because of the growing interest in and beyond Stanford on how African Americans are seen and treated in the criminal justice system. This concern is at the heart of the Black Lives Matter movement.</p>
-                <p>The KSR will document laws and regulations as well as social movements and the parallel acts of resistance and denial of equal access and equal rights through civil and criminal behaviors, atrocities, and everyday misdeeds (e.g. racial profiling). The purpose of exposing these historical and present-day linkages is to lay the groundwork for further study and teaching as well as research into these attainments and practices as ways to educate the young, students in higher education, researchers, and public policy makers. </p>
+                <p>The KSR will document laws and regulations as well as social movements and the parallel acts of resistance and denial of equal access and equal rights through civil and criminal behaviors, atrocities, and everyday misdeeds (e.g. racial profiling). The purpose of exposing these historical and present-day linkages is to lay the groundwork for further study and teaching as well as research into these attainments and practices as ways to educate the young, students in higher education, researchers, and public policy makers.</p>
             </div>
         </div>
     </div>
