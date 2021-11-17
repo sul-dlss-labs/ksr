@@ -35,7 +35,7 @@ nav-link: involved
         </div>
         <div class="col-6">
             <h1>Citizen Complaints Against Law Enforcement</h1>
-            <p>This California Department of Justice policy establishes guidelines governing the manner in which the Department of Justice will respond to complaints by members of the public against a law enforcement agency or its employees: <a href="https://oag.ca.gov/sites/all/files/agweb/pdfs/civilrights/citizencomplaintpolicy.pdf">https://oag.ca.gov/sites/all/files/agweb/pdfs/civilrights/citizencomplaintpolicy.pdf</a>.  If you have a specific incident or officer that you would more information on, you can file your own Public Records Act request with the ACLU of Southern California: <a href="https://www.aclusocal.org/en/know-your-rights/access-ca-police-records">https://www.aclusocal.org/en/know-your-rights/access-ca-police-records</a>.</p>
+            <p>This California Department of Justice policy establishes guidelines governing the manner in which the Department of Justice will respond to complaints by members of the public against a law enforcement agency or its employees: <a href="https://oag.ca.gov/sites/all/files/agweb/pdfs/civilrights/citizencomplaintpolicy.pdf">https://oag.ca.gov/sites/all/files/agweb/pdfs/civilrights/citizencomplaintpolicy.pdf</a>.  If you have a specific incident or officer that you want more information on, you can file your own Public Records Act request with the ACLU of Southern California: <a href="https://www.aclusocal.org/en/know-your-rights/access-ca-police-records">https://www.aclusocal.org/en/know-your-rights/access-ca-police-records</a>.</p>
         </div>
     </div>
 </div>
