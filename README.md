@@ -1,5 +1,7 @@
-# KNOW Systemic Racism
-KSR Website
+# DEPRECATED: KNOW Systemic Racism
+# IMPORTANT: This Jekyll site is not used anymore as of Jan 21 2022 in favor of the RoR site at https://github.com/sul-dlss/ksr-app which now points to https://ksr.stanford.edu
+
+## KSR Website
 
 We are using Jekyll with GitHub pages, along with a custom HTML/CSS template, with Bootstrap 5 (and not using Jekyll themes).
 
